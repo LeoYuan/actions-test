@@ -2,3 +2,4 @@
 # actions-test2
 newline
 newline
+newline
